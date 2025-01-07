@@ -1,0 +1,45 @@
+.A1{
+    
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 920px;
+    background-color: rgb(89, 0, 255);
+    text-align: left;
+    
+    
+}
+button{
+    height: 95px;
+    width: 150px;
+    color:rgb(0, 0, 0);
+    background-color: rgb(167, 167, 255);
+    font-size: larger;
+    
+}
+input{
+    height: 50px;
+    width: 900px;
+    font-size: larger;
+    background-color: rgb(255, 141, 163);
+    
+}
+.b0{
+    width: 300px;
+    height: 95px;
+    background-color: blueviolet;
+    color: aliceblue;
+}
+.c{
+    background-color: orange;
+}
+.AC{
+    background-color: orange;
+}
+h1{
+    text-align: center;
+    color: rgb(242, 194, 255);
+    
+}
+button:hover{
+    background-color: rgb(132, 0, 255);
+}
